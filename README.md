@@ -9,4 +9,4 @@ I have made a simple application to show the use of shared preferences as shown 
 
 ## Download APK from here
 
-[APK](https://github.com/alein249/HelloSharedPrefs/releases/download/sharedprefs/app-debug.apk)
+[APK](https://github.com/alein249/HelloSharedPrefs/releases/download/latest/app-release.apk)
